@@ -1,23 +1,23 @@
 ## CheseeMilkShake 🧀
 
-my dream is study in MIT
+my dream is studying in MIT
 
 Minecraft fan
 
-17 years
+19 years
 
 # Develover in
  - javascript
+ - Python
 # learning
-- rust
-- java
-- kotlin
+- Rust
+- Java
+- Kotlin
 
-i used to have a discord bot, leaft it 
+i used to have a discord bot, no longer available
 
 ## working on HYDROGENUM
-a minecraft modpack instaler with no auth
-for the no premium guys 
+
 
 
 <!---
